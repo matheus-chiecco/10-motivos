@@ -2,23 +2,23 @@
 const reasons = [
   {
     title: 'quando você tá bem, eu fico bem',
-    description: 'é meio automático… ver você sorrindo já muda meu dia, e eu sinto falta disso quando a gente não tá bem.'
+    description: 'é meio automático, ver você sorrindo já muda meu dia, e eu sinto falta disso quando a gente não tá bem.'
   },
   {
     title: 'eu podia ter sido melhor',
-    description: 'em várias coisas… e isso é o que mais me incomoda pensando agora.'
+    description: 'em várias coisas... e isso é o que mais me incomoda pensando agora.'
   },
   {
     title: 'eu devia ter te ouvido mais',
-    description: 'tem coisa que você já tinha falado e eu não dei atenção… hoje eu vejo isso.'
+    description: 'tem coisa que você já tinha falado e eu não dei atenção. hoje eu vejo isso.'
   },
   {
     title: 'eu não desacreditei da gente',
-    description: 'mesmo com tudo, em nenhum momento eu pensei “já era”… eu sempre quis que desse certo.'
+    description: 'mesmo com tudo, em nenhum momento eu pensei "já era", eu sempre quis que desse certo.'
   },
   {
     title: 'eu sempre penso na nossa Lua',
-    description: 'eu imagino ela pela casa, com os cachinhos dourados, brincando… e a gente ali. é simples, mas era algo que eu quero viver com você.'
+    description: 'eu imagino ela pela casa, com os cachinhos dourados, brincando e a gente ali. é simples, mas é algo que eu quero viver com você.'
   },
   {
     title: 'eu me sinto eu mesmo com você',
@@ -26,15 +26,15 @@ const reasons = [
   },
   {
     title: 'eu reparo nas coisas suas',
-    description: 'nos jeitos, nas manias… são coisas pequenas, mas que fazem você ser você.'
+    description: 'nos jeitos, nas manias... são coisas pequenas, mas que fazem você ser você.'
   },
   {
     title: 'a gente ainda tem muita coisa pra viver',
-    description: 'desde coisas simples... sair, rir, fazer nada juntos. Até coisas grandes, tipo viajar, morar junto, ter a Lua… tem muita coisa que eu quero viver com você.'
+    description: 'desde coisas simples, tipo sair, rir, fazer nada juntos. Até coisas grandes, tipo viajar, morar junto, ter a Lua... tem muita coisa que eu quero viver com você.'
   },
   {
-    title: 'eu não tô falando da boca pra fora',
-    description: 'eu realmente fiquei mal com tudo isso.'
+    title: 'tem uma surpresa pro nosso 3 anos',
+    description: 'eu não vou estragar contando agora mas eu quero muito que você veja.'
   },
   {
     title: 'eu amo você',
