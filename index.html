@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>10 motivos para não terminar comigo</title>
+  <link rel="icon" href="favicon.svg" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="background-animation"></div>
+  <div class="heart-field" aria-hidden="true"></div>
+
+
+  <main>
+    <section class="hero section-fade" id="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Com carinho e sinceridade</p>
+        <h1>10 motivos para não terminar comigo</h1>
+        <p class="hero-text">
+          Quero te mostrar o quanto você é importante pra mim e todas as razões pra gente continuar juntos,
+          porque você merece um amor de verdade e cheio de cuidado.
+        </p>
+        <div class="hero-actions">
+          <button class="cta-btn" id="readMoreBtn">Por favor, lê isso até o final ❤️</button>
+          <button class="secondary-btn" id="forgiveMeBtn">Quero te fazer feliz</button>
+        </div>
+      </div>
+    </section>
+
+ <section class="reasons section-fade" id="motivos">
+  <div class="section-header">
+    <span>eu só queria que você lesse isso com calma ❤️</span>
+    <h2>por que eu ainda quero a gente</h2>
+  </div>
+  <div class="cards-grid" id="reasonsGrid"></div>
+</section>
+
+<section class="letter section-fade" id="carta">
+  <div class="section-header">
+    <span>sem texto bonito, só verdade</span>
+    <h2>o que eu realmente quero te dizer</h2>
+  </div>
+  <div class="letter-box">
+    <p id="typewriterText"></p>
+  </div>
+</section>
+
+<section class="surprise section-fade" id="surprise">
+  <div class="surprise-card">
+    <p class="surprise-heading">no final de tudo...</p>
+    <p class="surprise-text">
+      eu ainda vejo a gente junto, vivendo coisa simples, rindo, brigando às vezes,
+      mas ficando... porque no fundo, eu só quero você.
+    </p>
+  </div>
+</section>
+</main>
+
+<footer class="page-footer">
+  <p>com todo meu coração <span aria-hidden="true">🌙</span></p>
+</footer>
+
+<div class="modal hidden" id="forgivenessModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-card">
+    <h3 id="modalTitle">eu te amo ❤️</h3>
+    <p>de verdade... só me dá mais uma chance de fazer diferente.</p>
+    <button class="modal-close" id="closeModalBtn">fechar</button>
+  </div>
+</div>
+
+<div class="toast hidden" id="finalToast" role="status" aria-live="polite">
+  <p>eu ainda escolho você, todos os dias.</p>
+</div>
+
+    <audio id="bgMusic" preload="auto" loop>
+        <source src="musica.mp3" type="audio/mpeg">
+    </audio>
+  <button class="music-btn" id="musicToggle" aria-label="Tocar música romântica">Tocar música</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
