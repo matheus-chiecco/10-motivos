@@ -38,7 +38,7 @@ const reasons = [
   },
   {
     title: 'eu amo você',
-    description: 'não mudou do nada… só ficou mais claro depois que eu vi o risco de te perder.'
+    description: 'e só ficou mais claro depois que eu vi o risco de te perder.'
   }
 ];
 
